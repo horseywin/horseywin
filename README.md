@@ -6,9 +6,9 @@ I mainly use VS code or Pycharm
 I'm thinking of making my own website so that's problably what I'm working on right now
 
 How to reach me:
-discord
-reddit
-phone
+discord - horseywin
+reddit - horseywin
+phone - [Coming soon]
 
 (Details coming soon!)
 
