@@ -10,10 +10,5 @@ I've made websites for my people such as friends, and family.
 
 How to reach me:
 discord - horseywin
-Reddit - horseywin
-phone - [Coming soon]
 
-(Details coming soon!)
-
-⚡ Fun fact:
-I use Brave, and Spotify and I have a Macbook Air.
+I use a m4 macbook pro (MBP)
