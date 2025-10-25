@@ -1,22 +1,13 @@
 👋 Hi, I’m @horseywin
-I like to code HTML, CSS, and Python and I'm learning Javascript and C#
+I'm a 14yr old who likes to code HTML, CSS, and Python. I've stopped programming for a while because I'm writing a book about AI and its future. I'll finish sometime in 2026.
 
-I mainly use VS code but my favourite is SUBLIME TEXT!
+I mainly use VS Code with a macbook pro m4, but my favourite IDE is SUBLIME TEXT! Check out their website for a free download!
 
 Here's my website for more info.
 { https://horseywin.github.io/bio/ }
 
-I've made websites for my people such as friends, and family. 
-
 How to reach me:
 discord - horseywin
-email - horsey2019@gmail.com
+email - horsey2019@duck.com
 
-I use a m4 macbook pro (MBP)
 
-I am also part of a teen game studio called duality studios
-{ https://www.horseywin.github.io/Duality-Studios }
-
-#coder
-#python-automation
-#burn some flags 🏳️‍⚧️🏳️‍🌈
